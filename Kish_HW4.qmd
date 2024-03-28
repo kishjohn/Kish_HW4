@@ -1,0 +1,8 @@
+---
+title: "Kish_HW4"
+author: "John Kish"
+format:
+  html:
+    embed-resources: true
+
+---
